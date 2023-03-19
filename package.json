@@ -48,14 +48,7 @@
     "nyc": "^15.1.0"
   },
   "jest": {
-    "coverageReporters": [
-      [
-        "lcov",
-        {
-          "projectRoot": "/"
-        }
-      ]
-    ],
+    "coverageReporters": ["lcov"],
     "transformIgnorePatterns": ["node_modules\/(?!axios)"],
     "collectCoverageFrom": [
       "src/**/*.js",
