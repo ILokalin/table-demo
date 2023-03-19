@@ -1,6 +1,7 @@
 # Custom table demo
 
 [![linter](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml/badge.svg)](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/16ade2f4207b30b2c64d/test_coverage)](https://codeclimate.com/github/ILokalin/table-demo/test_coverage)
 
 ## Available Scripts
 
