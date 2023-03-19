@@ -27,9 +27,7 @@ jobs:
         run:
           npx eslint .
       - name: Test Coverage Frontend
-        run: |
-          cd client
-          npm install
+        run:
           npm coverage
 
       - name: Test & publish code coverage
