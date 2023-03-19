@@ -28,7 +28,7 @@ jobs:
           npx eslint .
       - name: Test Coverage Frontend
         run:
-          npm coverage
+          npm run coverage
 
       - name: Test & publish code coverage
         uses: paambaati/codeclimate-action@v3.2.0
