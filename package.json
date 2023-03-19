@@ -52,7 +52,7 @@
       [
         "lcov",
         {
-          "projectRoot": ".."
+          "projectRoot": "/"
         }
       ]
     ],
