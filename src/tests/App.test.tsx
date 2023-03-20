@@ -11,7 +11,7 @@ describe('App component', () => {
       </MemoryRouter>,
     );
 
-    expect(screen.getByText(/hello/i)).toBeInTheDocument();
+    expect(screen.getByText(/header/i)).toBeInTheDocument();
   });
 
   it('renders the 404 page for invalid routes', () => {
