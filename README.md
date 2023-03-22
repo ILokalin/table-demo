@@ -3,6 +3,19 @@
 [![linter](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml/badge.svg)](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/16ade2f4207b30b2c64d/test_coverage)](https://codeclimate.com/github/ILokalin/table-demo/test_coverage)
 
+Abstract project start with React + TS:
+- [x] - add linter
+- [x] - add CI/CD
+- [x] - routers
+- [ ] - table
+- [ ] - filters
+- [ ] - form
+- [ ] - server
+- [ ] - try next.js \_(^^)_/
+
+## Demo
+[Demo in developing](https://table-demo-alpha.vercel.app/products)
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -38,4 +51,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
