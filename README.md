@@ -3,9 +3,9 @@
 [![linter](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml/badge.svg)](https://github.com/ILokalin/table-demo/actions/workflows/linter.yml)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/16ade2f4207b30b2c64d/test_coverage)](https://codeclimate.com/github/ILokalin/table-demo/test_coverage)
 
-Abstract project start with React + TS:
+🚧 This project is still under development process. Abstract project start with React + TS:
 - [x] - add linter
-- [x] - add CI/CD
+- [x] - add CI/CD (tests with GitHub actions and Vercel deployment)
 - [x] - routers
 - [ ] - table
 - [ ] - filters
@@ -14,7 +14,7 @@ Abstract project start with React + TS:
 - [ ] - try next.js \_(^^)_/
 
 ## Demo
-[Demo in developing](https://table-demo-alpha.vercel.app/products)
+🔗 **Demo link**: [Vercel deploy](https://table-demo-alpha.vercel.app/products)
 
 ## Available Scripts
 
